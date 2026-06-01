@@ -1,0 +1,23 @@
+# Poster publication — GCASR 2026
+
+title: "The Hidden Cost of Storage Mismatches: Why Faster I/O Per Task Can Slow Down Entire Workflows"
+authors:
+  - M. Tang
+  - L. Guo
+  - N. R. Tallent
+  - A. Kougkas
+  - X.-H. Sun
+venue: 13th Greater Chicago Area Systems Research Workshop (GCASR 2026)
+type: Poster
+date: May, 2026
+month: 5
+year: 2026
+tags:
+  - HPC Analysis
+  - I/O
+  - Workflow Optimization
+  - Data Analytics
+  - Performance Measurement
+links:
+  poster: https://gcasr.org/2026/pdfs/posters/GCASR_26_Understanding_Storage_Induced_Data_Movement_Costs__Vertical___Copy_%20-%20Meng%20Tang.pdf
+slug: tang-2026-storage-mismatches-7f3d
